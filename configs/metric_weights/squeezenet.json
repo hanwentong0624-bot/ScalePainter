@@ -1,0 +1,11 @@
+{
+  "purpose": "Frozen torchvision SqueezeNet features for torchmetrics LPIPS",
+  "files": [
+    {
+      "filename": "hub/checkpoints/squeezenet1_1-b8a52dc0.pth",
+      "url": "https://download.pytorch.org/models/squeezenet1_1-b8a52dc0.pth",
+      "size": 4958839,
+      "sha256": "b8a52dc049b60e4b6ab68ad0df457362afab8b6304b2febdc1650a5dab4d7e7b"
+    }
+  ]
+}

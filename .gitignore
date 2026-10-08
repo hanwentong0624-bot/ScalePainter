@@ -1,0 +1,30 @@
+# Model weights and checkpoints
+*.safetensors
+*.pth
+*.pt
+*.ckpt
+weights/
+checkpoints/
+
+# Datasets and generated artifacts
+data/
+datasets/
+outputs/
+cache/
+.cache/
+
+# Python environments and bytecode
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Local credentials and secrets
+.env
+.env.*
+secrets/
+*.pem
+*.key
+
+# Keep source configs trackable: do not ignore config files or config directories.

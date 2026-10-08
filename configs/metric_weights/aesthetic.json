@@ -1,0 +1,11 @@
+{
+  "purpose": "Optional frozen aesthetic head",
+  "files": [
+    {
+      "filename": "sac+logos+ava1-l14-linearMSE.pth",
+      "url": "https://raw.githubusercontent.com/christophschuhmann/improved-aesthetic-predictor/6934dd81792f086e613a121dbce43082cb8be85e/sac+logos+ava1-l14-linearMSE.pth",
+      "size": 3714759,
+      "sha256": "21dd590f3ccdc646f0d53120778b296013b096a035a2718c9cb0d511bff0f1e0"
+    }
+  ]
+}

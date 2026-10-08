@@ -1,0 +1,18 @@
+# Separate Python 3.9 environment; do not combine with inference.txt.
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+transformers==4.46.3
+numpy==1.26.4
+Pillow==9.5.0
+scipy==1.13.1
+torchmetrics==1.6.1
+scikit-image==0.24.0
+pandas==2.3.3
+opencv-python==4.9.0.80
+einops==0.8.2
+timm==0.6.13
+safetensors==0.7.0
+lpips==0.1.4
+image-reward==1.5
+hpsv2==1.2.0

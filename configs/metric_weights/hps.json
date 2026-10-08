@@ -1,0 +1,11 @@
+{
+  "repository": "xswu/HPSv2",
+  "revision": "697403c78157020a1ae59d23f111aa58ced35b0a",
+  "files": [
+    {
+      "filename": "HPS_v2.1_compressed.pt",
+      "size": 1972490005,
+      "sha256": "c57a38fb4a2f7e7c15bf00da2ea377cdf165448b4dd1052a484c215a998c9837"
+    }
+  ]
+}

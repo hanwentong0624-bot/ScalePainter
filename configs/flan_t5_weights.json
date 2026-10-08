@@ -1,0 +1,16 @@
+{
+  "repository": "google/flan-t5-xl",
+  "revision": "7d6315df2c2fb742f0f5b556879d730926ca9001",
+  "revision_verified": true,
+  "files": [
+    {"filename":"config.json","size":1438,"sha256":"ed9df0075dda91de9e9431f193203a3f869189e4effa3fc00cf9d41864f514ba"},
+    {"filename":"generation_config.json","size":147,"sha256":"f5a1c7e2be8092018d8835128987edf0111637dd98e90599cc80310fef75d95a"},
+    {"filename":"model-00001-of-00002.safetensors","size":9449619912,"sha256":"99196ddfbe886e8ef860f52de979df64890edfc792c3d94ce0502991f347dd18"},
+    {"filename":"model-00002-of-00002.safetensors","size":1949477672,"sha256":"c0c677ddeb21009b6efd97146f37fc3a0396707fb5e63ade7aff64884dce9806"},
+    {"filename":"model.safetensors.index.json","size":53032,"sha256":"4af536474e3441bab3996748fcf730cd47bb4bd66842efda0acdcfdcaa7c7429"},
+    {"filename":"special_tokens_map.json","size":2201,"sha256":"5c87151ef0f72a99d1f766a4c418bd2a1f90aaa30a8e22fe5eca9641daebb64f"},
+    {"filename":"spiece.model","size":791656,"sha256":"d60acb128cf7b7f2536e8f38a5b18a05535c9e14c7a355904270e15b0945ea86"},
+    {"filename":"tokenizer.json","size":2424064,"sha256":"fe2ebbbbde2985be723e0ce18217853e4020c5e9d35bd07be2c27ab9d3ead57a"},
+    {"filename":"tokenizer_config.json","size":2539,"sha256":"ef30e0628a2d067c5d9d02d98cbf9a2040f4a51883e5d16e1809eea548db0eff"}
+  ]
+}

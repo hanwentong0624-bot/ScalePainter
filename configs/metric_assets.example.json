@@ -1,0 +1,10 @@
+{
+  "clip": "../weights/metrics/clip",
+  "image_reward": "../weights/metrics/image_reward",
+  "bert_tokenizer": "../weights/metrics/bert_tokenizer",
+  "hps": "../weights/metrics/hps/HPS_v2.1_compressed.pt",
+  "pickscore": "../weights/metrics/pickscore",
+  "pick_processor": "../weights/metrics/pick_processor",
+  "aesthetic_clip": "../weights/metrics/clip",
+  "aesthetic_head": "../weights/metrics/aesthetic/sac+logos+ava1-l14-linearMSE.pth"
+}

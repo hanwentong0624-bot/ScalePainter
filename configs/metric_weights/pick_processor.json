@@ -1,0 +1,46 @@
+{
+  "repository": "laion/CLIP-ViT-H-14-laion2B-s32B-b79K",
+  "revision": "1c2b8495b28150b8a4922ee1c8edee224c284c0c",
+  "files": [
+    {
+      "filename": "config.json",
+      "size": 4725,
+      "sha256": "50150597fccadc90f3198d1c2caf2c41d88a40908c38fb428ea56c249b501d85"
+    },
+    {
+      "filename": "merges.txt",
+      "size": 524618,
+      "sha256": "f1cd414c2d113a28b296afc0fd66ae854c0e0c34d5de373a2f5b7f62e0c02344"
+    },
+    {
+      "filename": "open_clip_config.json",
+      "size": 637,
+      "sha256": "42736e39d52321d5cb6a6c21250669f942411f4732a7eb9011f83de7d781c1c5"
+    },
+    {
+      "filename": "preprocessor_config.json",
+      "size": 316,
+      "sha256": "910e70b3956ac9879ebc90b22fb3bc8a75b6a0677814500101a4c072bd7857bd"
+    },
+    {
+      "filename": "special_tokens_map.json",
+      "size": 389,
+      "sha256": "f8c0d6c39aee3f8431078ef6646567b0aba7f2246e9c54b8b99d55c22b707cbf"
+    },
+    {
+      "filename": "tokenizer.json",
+      "size": 2224041,
+      "sha256": "b556ac8c99757ffb677208af34bc8c6721572114111a6e0aaf5fa69ff0b8d842"
+    },
+    {
+      "filename": "tokenizer_config.json",
+      "size": 904,
+      "sha256": "e19f34ef773563fb695f96cfcae1e4c7b112ab6ad532f6962061df5242d924f0"
+    },
+    {
+      "filename": "vocab.json",
+      "size": 862328,
+      "sha256": "5047b556ce86ccaf6aa22b3ffccfc52d391ea4accdab9c2f2407da5b742d4363"
+    }
+  ]
+}

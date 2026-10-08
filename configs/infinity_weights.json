@@ -1,0 +1,37 @@
+{
+  "manifest_type": "public_weights_manifest",
+  "repository": "FoundationVision/Infinity",
+  "revision": "e7108923249fb3c836ebfbc3f4b4d318d6131293",
+  "files": [
+    {
+      "filename": "infinity_8b_weights/model-00001-of-00004.safetensors",
+      "size": 8223582120,
+      "sha256": "b79c2f4b22b58a686ad490431f724a3d388c144c8e60c23b96eaadc898b5ebfd"
+    },
+    {
+      "filename": "infinity_8b_weights/model-00002-of-00004.safetensors",
+      "size": 8223582120,
+      "sha256": "5e304b757cf60a0d3742aac2c5c8f194ee43ad845e637bd2d01bc421254abd8b"
+    },
+    {
+      "filename": "infinity_8b_weights/model-00003-of-00004.safetensors",
+      "size": 8223582120,
+      "sha256": "89f7a89084349ea2f35835ef8cc945fce0809262ccb0b5ac51e27cc21b9f1cc7"
+    },
+    {
+      "filename": "infinity_8b_weights/model-00004-of-00004.safetensors",
+      "size": 8833677944,
+      "sha256": "0247d1534bb17e0816228668eee3db6186110cbc679469217402a43adc7cf049"
+    },
+    {
+      "filename": "infinity_8b_weights/model.safetensors.index.json",
+      "size": 69433,
+      "sha256": "14f2fb59adab7008dd233dc8e33af1cae5aa2c7a4f0393f9a6a5a1b319d901168"
+    },
+    {
+      "filename": "infinity_vae_d56_f8_14_patchify.pth",
+      "size": 1215341746,
+      "sha256": "c4c695350125593dde7ec7120e6dff7039a9adea01516f6e14758eb94e3ec6c2"
+    }
+  ]
+}

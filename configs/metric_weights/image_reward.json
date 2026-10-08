@@ -1,0 +1,16 @@
+{
+  "repository": "zai-org/ImageReward",
+  "revision": "5736be03b2652728fb87788c9797b0570450ab72",
+  "files": [
+    {
+      "filename": "ImageReward.pt",
+      "size": 1786880927,
+      "sha256": "d71dc8d4912bc633c06ab8ef1ef6a81e8199d4369f14b47b29baf1d19de561f6"
+    },
+    {
+      "filename": "med_config.json",
+      "size": 485,
+      "sha256": "d8b5029cc3c0124313d17009d043f0701bbe497f3721fa4ceb818720fe665326"
+    }
+  ]
+}
